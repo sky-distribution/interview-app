@@ -7,7 +7,7 @@
 ### TODO
 
   1. fix hero.service.test
-  2. fix app.service.test use debugger
+  2. fix api.service.test use debugger
   3. rebase feature/new-test branch to master, fix git conflict
 
 
